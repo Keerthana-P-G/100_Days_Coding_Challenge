@@ -9,3 +9,9 @@ Day-02(22.11.2023)
 LeetCode-Add two numbers
 
 GFG_POTD-Symmetric tree
+
+Day-03(23.11.2023)
+
+LeetCode-Merge sorted array
+
+GFG_POTD-

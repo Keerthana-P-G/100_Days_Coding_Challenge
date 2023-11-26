@@ -27,3 +27,9 @@ Day-05(25.11.2023)
 LeetCode- Remove Duplicates from Sorted Array
 
 GFG_POTD- Shuffle Integers
+
+Day-06(26.11.2023)
+
+LeetCode- Remove Duplicates from Sorted Array II
+
+GFG_POTD- Print Pattern

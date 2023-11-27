@@ -33,3 +33,9 @@ Day-06(26.11.2023)
 LeetCode- Remove Duplicates from Sorted Array II
 
 GFG_POTD- Print Pattern
+
+Day-07(27.11.2023)
+
+LeetCode- Majority Elements
+
+GFG_POTD- Detect cycle using DSU 

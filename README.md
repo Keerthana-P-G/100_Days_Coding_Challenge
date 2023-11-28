@@ -39,3 +39,9 @@ Day-07(27.11.2023)
 LeetCode- Majority Elements
 
 GFG_POTD- Detect cycle using DSU 
+
+Day-08(28.11.2023)
+
+LeetCode- Rotate Array
+
+GFG_POTD- Sum of dependencies in a graph

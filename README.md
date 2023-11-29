@@ -45,3 +45,9 @@ Day-08(28.11.2023)
 LeetCode- Rotate Array
 
 GFG_POTD- Sum of dependencies in a graph
+
+Day-09(29.11.2023)
+
+LeetCode- Best Time to Buy and Sell Stock
+
+GFG_POTD- Euler circuit and Path

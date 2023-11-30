@@ -51,3 +51,9 @@ Day-09(29.11.2023)
 LeetCode- Best Time to Buy and Sell Stock
 
 GFG_POTD- Euler circuit and Path
+
+Day-10(30.11.2023)
+
+LeetCode- Find the Index of the First Occurrence in a String
+
+GFG_POTD- Shortest path from 1 to n

@@ -57,3 +57,9 @@ Day-10(30.11.2023)
 LeetCode- Find the Index of the First Occurrence in a String
 
 GFG_POTD- Shortest path from 1 to n
+
+Day-11(01.12.2023)
+
+LeetCode- Jump game
+
+GFG_POTD- Check whether BST contains Dead End

@@ -63,3 +63,9 @@ Day-11(01.12.2023)
 LeetCode- Jump game
 
 GFG_POTD- Check whether BST contains Dead End
+
+Day-12(02.12.2023)
+
+LeetCode- Jump game II
+
+GFG_POTD- Inorder traversal and BST

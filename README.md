@@ -69,3 +69,9 @@ Day-12(02.12.2023)
 LeetCode- Jump game II
 
 GFG_POTD- Inorder traversal and BST
+
+Day-13(03.12.2023)
+
+LeetCode- Best Time to Buy and Sell Stock II
+
+GFG_POTD- Brothers From Different Roots

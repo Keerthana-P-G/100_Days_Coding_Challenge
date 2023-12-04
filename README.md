@@ -75,3 +75,9 @@ Day-13(03.12.2023)
 LeetCode- Best Time to Buy and Sell Stock II
 
 GFG_POTD- Brothers From Different Roots
+
+Day-14(04.12.2023)
+
+LeetCode- H-Index
+
+GFG_POTD- Sum-String

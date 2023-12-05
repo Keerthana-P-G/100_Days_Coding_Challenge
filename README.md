@@ -81,3 +81,10 @@ Day-14(04.12.2023)
 LeetCode- H-Index
 
 GFG_POTD- Sum-String
+
+Day-15(05.12.2023)
+
+LeetCode- Product of Array Except Self
+
+GFG_POTD- Minimize the heights II
+

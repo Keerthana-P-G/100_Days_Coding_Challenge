@@ -88,3 +88,9 @@ LeetCode- Product of Array Except Self
 
 GFG_POTD- Minimize the heights II
 
+Day-16(06.12.2023)
+
+LeetCode- Length of last word
+
+GFG_POTD- How Many X's?
+

@@ -94,3 +94,9 @@ LeetCode- Length of last word
 
 GFG_POTD- How Many X's?
 
+Day-17(07.12.2023)
+
+LeetCode- Valid Palindrome
+
+GFG_POTD- Number of subarrays with maximum values in given range
+

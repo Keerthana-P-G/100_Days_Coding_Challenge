@@ -100,3 +100,9 @@ LeetCode- Valid Palindrome
 
 GFG_POTD- Number of subarrays with maximum values in given range
 
+Day-18(08.12.2023)
+
+LeetCode- Valid Parantheses
+
+GFG_POTD- Transform to prime
+

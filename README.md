@@ -106,3 +106,9 @@ LeetCode- Valid Parantheses
 
 GFG_POTD- Transform to prime
 
+Day-19(09.12.2023)
+
+LeetCode- Reverse Words in a String
+
+GFG_POTD- Smith Number
+

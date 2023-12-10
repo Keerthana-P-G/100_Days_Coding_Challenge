@@ -112,3 +112,9 @@ LeetCode- Reverse Words in a String
 
 GFG_POTD- Smith Number
 
+Day-20(10.12.2023)
+
+LeetCode- Plus one
+
+GFG_POTD- Subarray with 0 sum
+

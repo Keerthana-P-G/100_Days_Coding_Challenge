@@ -118,3 +118,9 @@ LeetCode- Plus one
 
 GFG_POTD- Subarray with 0 sum
 
+Day-21(11.12.2023)
+
+LeetCode- Is Subsequence
+
+GFG_POTD- Max Sum Subarray of size K
+

@@ -124,3 +124,9 @@ LeetCode- Is Subsequence
 
 GFG_POTD- Max Sum Subarray of size K
 
+Day-22(12.12.2023)
+
+LeetCode- Climbing Stairs
+
+GFG_POTD- Gold Mine Problem
+

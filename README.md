@@ -136,3 +136,9 @@ LeetCode- Roman to Integer
 
 GFG_POTD- Consecutive 1's not allowed
 
+Day-24(14.12.2023)
+
+LeetCode- Longest Common Prefix 
+
+GFG_POTD- Painting the Fence
+

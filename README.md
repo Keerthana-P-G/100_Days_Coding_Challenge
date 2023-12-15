@@ -142,3 +142,9 @@ LeetCode- Longest Common Prefix
 
 GFG_POTD- Painting the Fence
 
+Day-25(15.12.2023)
+
+LeetCode- Merge Strings Alternately 
+
+GFG_POTD- Reach the Nth point
+

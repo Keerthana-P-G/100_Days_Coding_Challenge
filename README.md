@@ -153,3 +153,9 @@ Day-26(16.12.2023)
 LeetCode- Gas Station 
 
 GFG_POTD- String's Count
+
+Day-27(17.12.2023)
+
+LeetCode- Move Zeroes  
+
+GFG_POTD- Max Sum without Adjacents

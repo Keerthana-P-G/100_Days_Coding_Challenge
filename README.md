@@ -159,3 +159,9 @@ Day-27(17.12.2023)
 LeetCode- Move Zeroes  
 
 GFG_POTD- Max Sum without Adjacents
+
+Day-28(18.12.2023)
+
+LeetCode- Greatest Common Divisor of Strings 
+
+GFG_POTD- Game of XOR

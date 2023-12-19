@@ -165,3 +165,9 @@ Day-28(18.12.2023)
 LeetCode- Greatest Common Divisor of Strings 
 
 GFG_POTD- Game of XOR
+
+Day-29(19.12.2023)
+
+LeetCode- Integer to Roman
+
+GFG_POTD- Rightmost different bit

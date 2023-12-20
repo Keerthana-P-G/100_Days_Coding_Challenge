@@ -171,3 +171,9 @@ Day-29(19.12.2023)
 LeetCode- Integer to Roman
 
 GFG_POTD- Rightmost different bit
+
+Day-30(20.12.2023)
+
+LeetCode- Can Place Flowers
+
+GFG_POTD- Modified Game of Nim

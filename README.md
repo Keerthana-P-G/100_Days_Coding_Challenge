@@ -177,3 +177,15 @@ Day-30(20.12.2023)
 LeetCode- Can Place Flowers
 
 GFG_POTD- Modified Game of Nim
+
+Day-31(21.12.2023)
+
+LeetCode-  Zigzag Conversion
+
+GFG_POTD- Candy
+
+Day-32(22.12.2023)
+
+LeetCode- Two Sum II - Input Array Is Sorted
+
+GFG_POTD- Maximum Meetings in One Room

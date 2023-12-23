@@ -189,3 +189,10 @@ Day-32(22.12.2023)
 LeetCode- Two Sum II - Input Array Is Sorted
 
 GFG_POTD- Maximum Meetings in One Room
+
+Day-33(23.12.2023)
+
+LeetCode- Reshape the Matrix
+
+GFG_POTD- Count More than n/k Occurences
+

@@ -196,3 +196,9 @@ LeetCode- Reshape the Matrix
 
 GFG_POTD- Count More than n/k Occurences
 
+Day-34(24.12.2023)
+
+LeetCode- Trapping Rain Water
+
+GFG_POTD- Buy Maximum Stocks if i stocks can be bought on i-th day
+

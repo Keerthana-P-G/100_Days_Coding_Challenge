@@ -202,3 +202,9 @@ LeetCode- Trapping Rain Water
 
 GFG_POTD- Buy Maximum Stocks if i stocks can be bought on i-th day
 
+Day-35(25.12.2023)
+
+LeetCode- 3Sum
+
+GFG_POTD- Determinant of a Matrix
+

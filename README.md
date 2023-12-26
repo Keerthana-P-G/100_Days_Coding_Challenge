@@ -208,3 +208,9 @@ LeetCode- 3Sum
 
 GFG_POTD- Determinant of a Matrix
 
+Day-36(26.12.2023)
+
+LeetCode- Palindromic Number
+
+GFG_POTD- Largest rectangular sub-matrix whose sum is 0
+

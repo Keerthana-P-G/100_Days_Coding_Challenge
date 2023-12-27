@@ -214,3 +214,9 @@ LeetCode- Palindromic Number
 
 GFG_POTD- Largest rectangular sub-matrix whose sum is 0
 
+Day-37(27.12.2023)
+
+LeetCode- Swap Nodes in Pairs
+
+GFG_POTD- Anti Diagonal Traversal of Matrix
+

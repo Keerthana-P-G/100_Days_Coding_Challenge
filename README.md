@@ -226,3 +226,9 @@ LeetCode- Container With Most Water
 
 GFG_POTD- Wildcard string matching
 
+Day-39(29.12.2023)
+
+LeetCode- Minimum Size Subarray Sum
+
+GFG_POTD- Check if a string is repetition of its substring of k-length
+

@@ -232,3 +232,11 @@ LeetCode- Minimum Size Subarray Sum
 
 GFG_POTD- Check if a string is repetition of its substring of k-length
 
+Day-40(30.12.2023)
+
+LeetCode- Rotate Image
+
+GFG_POTD- Winner of an election
+
+
+

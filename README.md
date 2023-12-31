@@ -238,5 +238,11 @@ LeetCode- Rotate Image
 
 GFG_POTD- Winner of an election
 
+Day-41(31.12.2023)
+
+LeetCode- Summary Ranges
+
+GFG_POTD- New Year Resolution
+
 
 
